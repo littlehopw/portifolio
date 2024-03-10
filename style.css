@@ -1,0 +1,125 @@
+html{
+    background-color: pink;
+    font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair', serif;
+}
+
+.logo{
+	position: absolute;
+	width: 15%;
+}
+
+.paginas{
+	position: relative;
+	display: inline-block;
+	width: 1000px;
+}
+
+nav{
+	display: flex;
+	margin-left: 35%;
+}
+nav li{
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0 15%;
+    list-style-type: none;
+}
+nav a{
+	text-decoration: none;
+    font-size: 30px;
+	color: white;
+}
+
+.container{
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    text-align: left;
+	width: 100%;
+	margin-top: 5%;
+    background-color: white;
+    margin: 50 50%;
+    max-width: 12000px;
+}
+
+.textosobre{
+	color: pink;
+    display: flex;
+	flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+	font-size: 130%;
+    text-transform: none;
+    margin-left:5%;
+}
+
+.eu{
+	margin: auto;
+	height: fit-content;
+	width: 60%;
+}
+
+.separador1{
+    margin-left:5%;
+}
+
+.separador2{
+    margin-left:55%;
+}
+
+.container2{
+	position: relative;
+    text-align: center;
+	width: 100%;
+    background-color: white;
+    margin: 50 50%;
+    max-width: 12000px;
+}
+
+.formacao{
+    color: pink;
+    display: flex;
+	flex-direction: column;
+    margin-bottom: 10%;
+	font-size: 130%;
+    text-transform: none;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.container3{
+    position: relative;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    text-align: left;
+    margin-left: 15%;
+    max-width: 12000px;
+}
+
+.desc1{
+font-size: large;
+}
+
+.desc2{
+    font-size: large;
+    margin-left: 15%;
+ }
+
+.container4{
+    position: relative;
+    text-align: center;
+	width: 100%;
+    background-color: white;
+    margin: 50 50%;
+    max-width: 12000px;
+}
+
+footer{
+	background-color: white;
+}
+
+.imagem-footer{
+    width: 5%;
+    margin-left: 5%;
+}
