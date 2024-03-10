@@ -3,7 +3,7 @@
 
 Site feito para me apresentar, mostrando minhas conquistas e minha história.
 
-Para acessar, clique [aqui](https://littlehopw.github.io/marcunha/) .
+Para acessar, clique [aqui](https://littlehopw.github.io/portifolio/) .
 
 # 🔗 Onde me encontrar
 
